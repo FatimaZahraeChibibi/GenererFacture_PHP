@@ -1,0 +1,122 @@
+img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    width: 10%;
+}
+
+body {
+    font-family: "Lucida Console", Times, serif;
+    font-size: 15px;
+
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.container {
+    border-style: solid;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.Info1 {
+    padding-top: 10px;
+    position: relative;
+    display: block;
+    float: left;
+}
+
+.Info2 {
+    padding-top: 10px;
+    position: relative;
+    display: inline-block;
+    float: right;
+}
+
+.Info3 {
+    padding-top: 30px;
+    position: relative;
+    display: block;
+    clear: both;
+    float: left;
+}
+
+.Info4 {
+    padding-top: 30px;
+    position: relative;
+    display: inline-block;
+    float: left;
+    left: 90px;
+    place-items: center;
+    padding-bottom: 30px;
+
+}
+
+th,
+td {
+    padding: 12px;
+    text-align: left;
+
+}
+
+tr {
+    border: 2px solid black;
+}
+
+.N1 {
+
+    display: inline-block;
+    padding-top: 30px;
+    position: relative;
+    margin-left: 750px;
+
+}
+
+.cal {
+    display: inline-block;
+
+}
+
+
+
+.tot {
+    margin-top: 30px;
+    border: 3px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 30px;
+
+}
+
+.f {
+    font-weight: bolder;
+    font-size: 30px;
+    display: inline-block;
+    float: right;
+
+}
+
+footer {
+    margin-top: 50px;
+
+}
+
+.pied {
+    font-size: 13px;
+}
